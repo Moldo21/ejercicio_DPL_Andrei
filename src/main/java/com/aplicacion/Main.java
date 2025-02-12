@@ -14,7 +14,7 @@ public class Main {
             System.out.println("2. Ver Tareas");
             System.out.println("3. Eliminar Tarea");
             System.out.println("4. Salir");
-            System.out.print("Seleccione una opción (del 1 al 4): ");
+            System.out.print("Seleccione una opción (de la opción 1 a lac 4): ");
             opcion = scanner.nextInt();
             scanner.nextLine(); // Limpiar el buffer
 
