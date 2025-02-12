@@ -1,10 +1,10 @@
-package com.ejemplo;
+package com.aplicacion;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        GestorTareas gestor = new GestorTareas();
+        GestorTarea gestor = new GestorTarea();
         Scanner scanner = new Scanner(System.in);
         int opcion;
 
